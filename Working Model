@@ -1,0 +1,9 @@
+medical_ai_project/
+│
+├── config.yaml         # Configuration file
+├── process.py          # Script to generate XML metadata
+├── gui_viewer.py       # New script for the GUI viewer
+├── Data/                   
+│   ├── images/         # Chest X-ray images
+│   └── xml/            # XML metadata files
+└── README.md           # Project description

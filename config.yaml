@@ -1,0 +1,23 @@
+dataset:
+  name: "NIH ChestX-ray"
+  base_url: ""  # Since these are local files, we don't need a URL
+  sample_images:
+    - "000001-1.jpg"
+    - "000001-4.jpg"
+    - "000001-10.jpg"
+    - "000001-11.jpg"
+    - "000001-12.jpg"
+    - "000001-13.jpg"
+    - "000001-14.jpg"
+    - "000001-15.jpg"
+    - "000001-19.jpg"
+    - "000001-20.jpg"
+    - "000001-24.jpg"
+
+metadata:
+  xml_dir: "data/xml"
+  image_dir: "data/images"
+
+output:
+  show_images: true
+
